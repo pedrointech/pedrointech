@@ -16,6 +16,3 @@
   <img alt="CSS" height="40" width="60" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFzaDI5bTI0N3R2dmV1NDdwbnhyZDFybXJzcjF6M3hkYnY2eWl3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.webp" alt="PedroInTech GIF">
-</p>
