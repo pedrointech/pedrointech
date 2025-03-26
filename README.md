@@ -26,5 +26,6 @@
   <img alt=".NET" height="40" width="60" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrointech&layout=compact&langs_count=6&theme=radical)
 
 💡 **Estou sempre aberto a novos desafios e colaborações! Entre em contato comigo e vamos criar algo incrível juntos.** 😊
