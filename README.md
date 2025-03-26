@@ -25,7 +25,10 @@
   <img alt="PHP" height="40" width="60" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
   <img alt=".NET" height="40" width="60" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
 </p>
-
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrointech&layout=compact&langs_count=6&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrointech&show_icons=true&theme=radical)
+
+</p>
 
 💡 **Estou sempre aberto a novos desafios e colaborações! Entre em contato comigo e vamos criar algo incrível juntos.** 😊
